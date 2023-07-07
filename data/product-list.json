@@ -4,41 +4,41 @@
     "name": "Camiseta Conforto",
     "image": "https://raw.githubusercontent.com/matheus-hjs/meteora/main/data/images/Product-Shirt.png",
     "desc": "Multicores e tamanhos. Tecido de algodão 100%, fresquinho para o verão. Modelagem unissex.",
-    "price": "R$70,00"
+    "price": "70.00"
   },
   {
     "category": "calça",
     "name": "Calça Alfaiataria",
     "image": "https://raw.githubusercontent.com/matheus-hjs/meteora/main/data/images/Product-Pants.png",
     "desc": "Modelo Wide Leg alfaiataria em linho. Uma peça pra vida toda!",
-    "price": "R$180,00"
+    "price": "180.00"
   },
   {
     "category": "calçado",
     "name": "Tênis Chunky",
     "image": "https://raw.githubusercontent.com/matheus-hjs/meteora/main/data/images/Product-Shoes.png",
     "desc": "Sneaker casual com solado mais alto e modelagem robusta. Modelo unissex.",
-    "price": "R$250,00"
+    "price": "250.00"
   },
   {
     "category": "casaco",
     "name": "Jaqueta Jeans",
     "image": "https://raw.githubusercontent.com/matheus-hjs/meteora/main/data/images/Product-Jacket.png",
     "desc": "Modelo unissex oversized com gola de camurça. Atemporal e autêntica!",
-    "price": "R$150,00"
+    "price": "150.00"
   },
   {
     "category": "óculos",
     "name": "Óculos Redondo",
     "image": "https://raw.githubusercontent.com/matheus-hjs/meteora/main/data/images/Product-Glasses.png",
     "desc": "Armação metálica em grafite com lentes arredondadas. Sem erro!",
-    "price": "R$120,00"
+    "price": "120.00"
   },
   {
     "category": "bolsa",
     "name": "Bolsa Coringa",
     "image": "https://raw.githubusercontent.com/matheus-hjs/meteora/main/data/images/Product-Bag.png",
     "desc": "Bolsa camel em couro sintético de alta duração. Ideal para acompanhar você por uma vida!",
-    "price": "R$120,00"
+    "price": "120.00"
   }
 ]
