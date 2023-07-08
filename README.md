@@ -2,6 +2,7 @@
 ### PT-BR
 Site no [GitHub Pages](https://matheus-hjs.github.io/meteora/).
 > *Imagens e vídeos do projeto no final deste README*
+
 ## 👨‍🏫Descrição do projeto💬
 Meteora é uma empresa do comércio eletrônico de roupas atemporais, casuais e sem gênero. Ela acredita que a moda é muito mais do que apenas tendências passageiras e oferece peças versáteis que se adaptam a qualquer estilo e ocasião.
 
@@ -58,4 +59,36 @@ To this end, they have solicited our help as developers to create an e-commerce 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=24px; height=24px;/> JavaScript
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width=24px; height=24px;/>CSS
+
+# 🎨Images/Videos📸💻
+## Layouts
+![Responsive-layouts](https://github.com/matheus-hjs/meteora/assets/111749849/9d88f5c5-8a5d-43cf-8fb2-8bac6380130d)
+
+## Modals
+### Modal do produto / Product modal
+![meteora-modal_product](https://github.com/matheus-hjs/meteora/assets/111749849/3dcdb723-a2a4-45af-9e3f-719b7c029e4b)
+### Modal da sacola / Shopping bag modal
+![meteora-modal_cart](https://github.com/matheus-hjs/meteora/assets/111749849/309d0173-1de2-4a82-9f01-d9f735b2dd9e)
+
+## Videos
+### Filtrar por pesquisa e categoria / Filter by search and category
+https://github.com/matheus-hjs/meteora/assets/111749849/4a047e19-41dd-4f3d-a83c-f911339934e3
+
+https://github.com/matheus-hjs/meteora/assets/111749849/60d45f16-cfed-4f7d-b155-6113555838fb
+
+### Adicionar e remover da Sacola / Add and remove from Shopping bag
+https://github.com/matheus-hjs/meteora/assets/111749849/66061ccd-d4e6-4f54-ad4a-bf4d86535c62
+
+https://github.com/matheus-hjs/meteora/assets/111749849/ff878fc6-515a-47a8-a770-cb282d4361e0
+
+### Modals
+https://github.com/matheus-hjs/meteora/assets/111749849/ed9cb7e9-209a-44de-a585-b94a37c1e30a
+
+https://github.com/matheus-hjs/meteora/assets/111749849/664ed4c4-d0f6-4711-8c5f-f247894f991c
+
+
+
+
+
+
 
